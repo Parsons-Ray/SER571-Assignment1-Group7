@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{1}
+\begin{thebibliography}{2}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -36,6 +36,20 @@
 \providecommand\bibinfo[2]{#2}
 \providecommand\natexlab[1]{#1}
 \providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{ENERO}{ENERO}{2018}]%
+        {David}
+\bibfield{author}{\bibinfo{person}{David~AYZA ENERO}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \bibinfo{title}{DISTRIBUTED AGILE TEAMS: 9 HACKS THAT MAKE THEM
+  WORK}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://apiumhub.com/tech-blog-barcelona/distributed-agile-teams-hacks/}
+\showURL{%
+Retrieved January 20, 2019 from \tempurl}
+
 
 \bibitem[\protect\citeauthoryear{T.}{T.}{2018}]%
         {Lulit}
