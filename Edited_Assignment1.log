@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.20)  2 FEB 2019 21:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.20)  3 FEB 2019 14:50
 entering extended mode
 **./Edited_Assignment1.tex
 (Edited_Assignment1.tex
@@ -1185,11 +1185,11 @@ Package rerunfilecheck Info: File `Edited_Assignment1.out' has not changed.
 (rerunfilecheck)             Checksum: 1E29F8F78DEDF8985AD1ED68D8E7ADBD;1264.
  ) 
 Here is how much of TeX's memory you used:
- 18116 strings out of 492946
- 274242 string characters out of 3135527
+ 18113 strings out of 492946
+ 274167 string characters out of 3135527
  391465 words of memory out of 3000000
  21300 multiletter control sequences out of 15000+200000
- 148145 words of font info for 259 fonts, out of 3000000 for 9000
+ 147872 words of font info for 257 fonts, out of 3000000 for 9000
  1302 hyphenation exceptions out of 8191
  60i,11n,94p,1662b,398s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/David/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lbtn_7gr
@@ -1205,7 +1205,7 @@ ata/Roaming/MiKTeX/2.9/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/User
 s/David/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/libertine/LinLibertineTBI
 .pfb><C:/Users/David/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/libertine/Li
 nLibertineTI.pfb>
-Output written on Edited_Assignment1.pdf (2 pages, 346814 bytes).
+Output written on Edited_Assignment1.pdf (2 pages, 346877 bytes).
 PDF statistics:
  121 PDF objects out of 1000 (max. 8388607)
  21 named destinations out of 1000 (max. 500000)
